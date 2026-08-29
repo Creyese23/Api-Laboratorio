@@ -4,16 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95466b6b-fb98-4662-84f3-1b1970534088" name="Changes" comment="" />
+    <list default="true" id="ba855843-12da-49bb-b97a-fb8dc7da6960" name="Changes" comment="Creación de los archivos de la carpeta exceptions">
+      <change beforePath="$PROJECT_DIR$/.idea/Api-Laboratorio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/java/com/sena/creyese/apilaboratoriobackend/ApiLaboratorioBackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/java/com/sena/creyese/apilaboratoriobackend/exception/ApiError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/java/com/sena/creyese/apilaboratoriobackend/exception/DuplicateResourceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/java/com/sena/creyese/apilaboratoriobackend/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/java/com/sena/creyese/apilaboratoriobackend/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/resources/application-mysql-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/resources/application-mysql-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/resources/application-sqlserver-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/resources/application-sqlserver-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api-Laboratorio-Backend/src/main/resources/application.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="1" />
+    <option name="cachedIndexableFilesCount" value="12" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -26,17 +55,37 @@
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Creyese23/Api-Laboratorio.git",
     "accountId": "87805690-4a59-4fb3-810a-ca07cd5a7ecc"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "Creyese23",
+    "repository": "Api-Laboratorio"
   }
 }]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
+  "associatedIndex": 8,
   "fromUser": false
 }]]></component>
-  <component name="ProjectId" id="3IYxBMFg7YXqBQSkA75pxtMaa2F" />
+  <component name="ProjectId" id="3IYxspWIBeqE2VmxR5QOflt0WMV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,20 +97,34 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "update",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/src/DENTVISION/Nueva carpeta/Api-Laboratorio",
+    "last_opened_file_path": "D:/src/DENTVISION/Nueva carpeta/Api-Laboratorio/Api-Laboratorio-Backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\src\DENTVISION\Nueva carpeta\Api-Laboratorio\Api-Laboratorio-Backend" />
+      <recent name="D:\src\DENTVISION\Nueva carpeta\Api-Laboratorio\Api-Laboratorio-Backend\src\main\java\com\sena\creyese\apilaboratoriobackend\exception" />
+      <recent name="D:\src\DENTVISION\Nueva carpeta\Api-Laboratorio\Api-Laboratorio-Backend\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApiLaboratorioBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Api-Laboratorio-Backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sena.creyese.apilaboratoriobackend.ApiLaboratorioBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,16 +135,62 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="95466b6b-fb98-4662-84f3-1b1970534088" name="Changes" comment="" />
-      <created>1787955167766</created>
+      <changelist id="ba855843-12da-49bb-b97a-fb8dc7da6960" name="Changes" comment="" />
+      <created>1787955522530</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1787955167766</updated>
-      <workItem from="1787955169489" duration="349000" />
+      <updated>1787955522530</updated>
+      <workItem from="1787955524267" duration="2372000" />
     </task>
+    <task id="LOCAL-00001" summary="Creación backend de la api del laboratorio">
+      <option name="closed" value="true" />
+      <created>1787956400238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787956400238</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creación backend de la api del laboratorio">
+      <option name="closed" value="true" />
+      <created>1787956473044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787956473044</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creación backend de la api del laboratorio">
+      <option name="closed" value="true" />
+      <created>1787956506257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1787956506257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creación backend de la api del laboratorio">
+      <option name="closed" value="true" />
+      <created>1787956885871</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787956885871</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creación de los archivos de la carpeta exceptions">
+      <option name="closed" value="true" />
+      <created>1787957733915</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1787957733915</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creación backend de la api del laboratorio" />
+    <MESSAGE value="Creación de los archivos de la carpeta exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación de los archivos de la carpeta exceptions" />
   </component>
 </project>
